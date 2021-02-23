@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/GTestURPCamera.unity
+- path: Assets/Scenes/GTestURPCamera_cooperation.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
